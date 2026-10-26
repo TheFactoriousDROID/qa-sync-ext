@@ -1,0 +1,4 @@
+{
+  "name": "ext-sub",
+  "description": "QA cross-machine sync fixture (git-subdir plugins/sub)"
+}
